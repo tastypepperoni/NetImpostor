@@ -1,5 +1,6 @@
 # NetImpostor
-Establish a Stateful Connection With a Spoofed Source IP
+Gain another host's network access permissions by establishing a stateful connection with a spoofed source IP.
+
 
 An overview of the techniques used in this tool can be found here: https://tastypepperoni.medium.com/stateful-connection-with-spoofed-source-ip-netimpostor-ece8b950a981
 
